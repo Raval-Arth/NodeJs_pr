@@ -107,22 +107,28 @@
 ☑️ Node.js URL.password API
 ```
 
-6 done 15 left
+```
+6:46 - 7:00 String Decoder Module
+☑️ Node.js stringDecoder.end() Method
+☑️ Node.js stringDecoder.write() Method
 
 ```
-Console Module
-Crypto Module
-DNS Module
-File System Module
-Globals
-HTTP Module
-HTTP2 Module
-OS Module
-Path Module
-Stream Module
-String Decoder Module
-Timers Module
-TLS/SSL Module
-UDP/DataGram Module
-Utility Module
+
+# TO DO LIST
+
+```
+☐ Console Module
+☐ Crypto Module
+☐ DNS Module
+☐ File System Module
+☐ Globals
+☐ HTTP Module
+☐ HTTP2 Module
+☐ OS Module
+☐ Path Module
+☐ Stream Module
+☐ Timers Module
+☐ TLS/SSL Module
+☐ UDP/DataGram Module
+☐ Utility Module
 ```

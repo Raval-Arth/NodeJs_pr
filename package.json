@@ -13,7 +13,8 @@
     "day1_gBuffers": "nodemon ./3_04_2023/gfg_node/gbuffer.js",
     "day1_gProcess": "nodemon ./3_04_2023/gfg_node/gProcess.js",
     "day1_gQuerystring": "nodemon ./3_04_2023/gfg_node/gQuerystring.js",
-    "day1_gUrlModule": "nodemon ./3_04_2023/gfg_node/gUrlModule.js"
+    "day1_gUrlModule": "nodemon ./3_04_2023/gfg_node/gUrlModule.js",
+    "day1_gStringDecoder": "nodemon ./3_04_2023/gfg_node/gStringDecoder.js"
   },
   "keywords": [],
   "author": "",

@@ -1,7 +1,6 @@
 var http = require("http");
 var url = require("url");
 var fs = require("fs");
-var cors =  require('cors');
 
 // use cors
 
