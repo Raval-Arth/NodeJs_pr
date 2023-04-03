@@ -90,12 +90,10 @@
 ```
 
 ```
-5:46 - Query String Module
-Node.js querystring.parse() Method
-Node.js querystring.stringify() Method
-Node.js Query String Complete Reference
+5:46 - 6:01 Query String Module
+☑️ Node.js querystring.parse() Method
+☑️ Node.js querystring.stringify() Method
 ```
-
 
 ```
 Console Module

@@ -11,7 +11,8 @@
     "day1_testSql": "nodemon ./3_04_2023/testsql.js",
     "day1_gBasic": "nodemon ./3_04_2023/gBasics.js",
     "day1_gBuffers": "nodemon ./3_04_2023/gfg_node/gbuffer.js",
-    "day1_gProcess": "nodemon ./3_04_2023/gfg_node/gProcess.js"
+    "day1_gProcess": "nodemon ./3_04_2023/gfg_node/gProcess.js",
+    "day1_gQuerystring": "nodemon ./3_04_2023/gfg_node/gQuerystring.js"
   },
   "keywords": [],
   "author": "",
