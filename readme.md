@@ -35,9 +35,10 @@
 ☑️ MySQL Join
 ```
 
+## Geek for Geeks
+
 ```
 3:15 - 3:30
-Geek for Geeks
 ☑️ Node.js Basic
 ☑️ NodeJS
 ☑️ Introduction to Node.js
@@ -64,17 +65,37 @@ Geek for Geeks
 ```
 
 ```
-4:15 - 5:00
-☑️ Buffer Module
-Node.js Buffer.copy() Method
-Node.js Buffer.includes() Method
-Node.js Buffer.compare() Method
-Node.js Buffer.alloc() Method
-Node.js Buffer.equals() Method
-Node.js Buffer.subarray() Method
-Node.js Buffer.readIntBE() Method
-Node.js Buffer.write() Method
+4:15 - 5:20 -- Buffer Module
+☑️ Node.js Buffer.copy() Method
+☑️ Node.js Buffer.includes() Method
+☑️ Node.js Buffer.compare() Method
+☑️ Node.js Buffer.alloc() Method
+☑️ Node.js Buffer.equals() Method
+☑️ Node.js Buffer.subarray() Method
+☑️ Node.js Buffer.readIntBE() Method
+☑️ Node.js Buffer.write() Method
 ```
+
+```
+5:20 - 5:46 -- Process module
+☑️ Node.js process.arch Property
+☑️ Node.js process.argv Property
+☑️ Node.js process.argv0 Property
+☑️ Node.js process.chdir() Method
+☑️ Node.js process.config Property
+☑️ Node.js process.cpuUsage() Method
+☑️ Node.js process.cwd() Method
+☑️ Node.js process.debugPort Property
+☑️ Node.js process.env Property
+```
+
+```
+5:46 - Query String Module
+Node.js querystring.parse() Method
+Node.js querystring.stringify() Method
+Node.js Query String Complete Reference
+```
+
 
 ```
 Console Module
@@ -86,8 +107,6 @@ HTTP Module
 HTTP2 Module
 OS Module
 Path Module
-Process Module
-Query String Module
 Stream Module
 String Decoder Module
 Timers Module
