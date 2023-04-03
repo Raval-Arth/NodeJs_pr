@@ -20,13 +20,6 @@ var myEventHandler = function () {
 eventEmitter.on("node", myEventHandler);
 eventEmitter.emit("node");
 
-// buffers
-// var b = new Buffer(10000);
-// var str = "";
-// b.write("");
-// console.log(str.length);
-// console.log(b.length);
-
 // Node.js REPL
 // READ, EVAL, PRINT, LOOP;
 
@@ -68,3 +61,32 @@ try {
 } catch (error) {
   console.log("Error:", error);
 }
+
+try {
+  assert.doesNotThrow(() => {
+    throw new TypeError("Wrong value");
+  });
+} catch (error) {
+  console.log("Error doesNotThrow", error);
+}
+try {
+  assert.equal(1, 1);
+  console.log("No Error equal()");
+} catch (error) {
+  console.log("Error equal()", error);
+}
+
+try {
+  // Function call
+  assert.ifError(null);
+  //   match()
+  console.log("match() --> " + assert.match("I am good", /good/));
+  //   console.log("match() --> " + assert.match("I will try to pass", /fail/));
+  console.log("notDeepEqual() --> " + assert.notDeepEqual({ a: 1 }, { a: 55 }));
+} catch (error) {
+  console.log("Error:", error);
+}
+
+// buffer
+
+var ubuf = Buffer.alloc(5);
