@@ -96,6 +96,20 @@
 ```
 
 ```
+6:01 - 6:46 URL Module
+☑️ Node.js URL.hash API
+☑️ Node.js URL.host API
+☑️ Node.js URL.origin API
+☑️ Node.js URL.username API
+☑️ Node.js URL.search API
+☑️ Node.js URL.port API
+☑️ Node.js URL.pathname API
+☑️ Node.js URL.password API
+```
+
+6 done 15 left
+
+```
 Console Module
 Crypto Module
 DNS Module
@@ -110,6 +124,5 @@ String Decoder Module
 Timers Module
 TLS/SSL Module
 UDP/DataGram Module
-URL Module
 Utility Module
 ```
