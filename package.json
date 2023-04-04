@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1",  
     "start": "nodemon server.js",
     "day1_b": "nodemon ./3_04_2023/basics.js",
     "day1_demo": "nodemon ./3_04_2023/demo_fileserver.js",
@@ -14,12 +14,21 @@
     "day1_gProcess": "nodemon ./3_04_2023/gfg_node/gProcess.js",
     "day1_gQuerystring": "nodemon ./3_04_2023/gfg_node/gQuerystring.js",
     "day1_gUrlModule": "nodemon ./3_04_2023/gfg_node/gUrlModule.js",
-    "day1_gStringDecoder": "nodemon ./3_04_2023/gfg_node/gStringDecoder.js"
+    "day1_gStringDecoder": "nodemon ./3_04_2023/gfg_node/gStringDecoder.js",
+    "day2_gDnsModule": "nodemon ./4_04_2023/gfg_node/gDnsModule.js",
+    "day2_gGlobals": "nodemon ./4_04_2023/gfg_node/gGlobals.js",
+    "day2_gHttp": "nodemon ./4_04_2023/gfg_node/gHttp.js",
+    "day2_gOs": "nodemon ./4_04_2023/gfg_node/gOs.js",
+    "day2_gPath": "nodemon ./4_04_2023/gfg_node/gPath.js",
+    "day2_gFile": "nodemon ./4_04_2023/gfg_node/gFile.js",
+    "day2_gTimer": "nodemon ./4_04_2023/gfg_node/gTimer.js",
+    "day2_gUtility": "nodemon ./4_04_2023/gfg_node/gUtility.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "agentkeepalive": "^4.3.0",
     "assert": "^2.0.0",
     "cors": "^2.8.5",
     "express": "^4.18.2",
