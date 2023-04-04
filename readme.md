@@ -140,6 +140,8 @@
 ☑️ Timers Module
 
 6:37 - 6:50   || 13 minute
+☐ Utility Module
+
 ```
 
 # TO DO LIST
@@ -149,5 +151,4 @@
 ☐ Stream Module
 ☐ TLS/SSL Module
 ☐ UDP/DataGram Module
-☐ Utility Module
 ```
