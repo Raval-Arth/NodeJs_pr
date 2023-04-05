@@ -144,11 +144,24 @@
 
 ```
 
-# TO DO LIST
+# 5th april 2023
 
 ```
+9:48 - 11:20 || 1 hour 32 minute
+☑️ Utility Module
+
+11:20 - 12:00 || 40 minute
+☑️ Stream Module
+
+12:00 - 12:39 || 39 minute
+☑️ TLS/SSL Module
+
+12:39 - 1:00 || 21 minute
 ☐ Crypto Module
-☐ Stream Module
-☐ TLS/SSL Module
-☐ UDP/DataGram Module
+
+2:00 - 2:41 || 41 minute
+☑️ Crypto Module
+
+2:41 - 3:18 || 37 minute
+☑️ UDP/DataGram Module
 ```

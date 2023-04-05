@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",  
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js",
     "day1_b": "nodemon ./3_04_2023/basics.js",
     "day1_demo": "nodemon ./3_04_2023/demo_fileserver.js",
@@ -22,7 +22,11 @@
     "day2_gPath": "nodemon ./4_04_2023/gfg_node/gPath.js",
     "day2_gFile": "nodemon ./4_04_2023/gfg_node/gFile.js",
     "day2_gTimer": "nodemon ./4_04_2023/gfg_node/gTimer.js",
-    "day2_gUtility": "nodemon ./4_04_2023/gfg_node/gUtility.js"
+    "day2-3_gUtility": "nodemon ./5_04_2023/gfg_node/gUtility.js",
+    "day3_gStream": "nodemon ./5_04_2023/gfg_node/gStream.js",
+    "day3_gTls": "nodemon ./5_04_2023/gfg_node/gTls.js",
+    "day3_gCrypto": "nodemon ./5_04_2023/gfg_node/gCrypto.js",
+    "day3_gUdp": "nodemon ./5_04_2023/gfg_node/gUdp.js"
   },
   "keywords": [],
   "author": "",
